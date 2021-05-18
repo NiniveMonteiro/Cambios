@@ -15,7 +15,6 @@ namespace Cambios
         public Form1()
         {
             InitializeComponent();
-        }
-
+        }             
     }
 }
